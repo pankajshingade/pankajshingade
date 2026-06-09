@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Shingade</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Future+Full+Stack+Developer;Java+%7C+Python+%7C+C%2B%2B+Developer;Building+Real-World+Projects;Welcome+to+my+GitHub+Profile+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Future+Full+Stack+Developer;Java+%7C+Python+%7C+C%2B%2B;Building+Real+World+Projects;Welcome+to+my+GitHub+Profile+🚀" />
 </p>
 
 <p align="center">
